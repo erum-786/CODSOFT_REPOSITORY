@@ -41,3 +41,5 @@ Task Completed:
    **Mark Task as completed**: Allow users to mark tasks as completed.
    **Remove Task** : Provide an option to remove tasks from the list.
 
+Thanks a ton for visiting my CODSOFT repository!
+
