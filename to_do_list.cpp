@@ -36,7 +36,7 @@ void print_tasks( string tasks[], int count, int taskNumber){
             for(int i=0; i< count; i++){
                 if(taskNumber==i){
                     cout<< "Task["<< i<< "] : "<<tasks[i]<< "\t completed."<< endl;
-                    cout<< " Completed task is deleted."<< endl;
+                    cout<< " Completed task will be deleted."<< endl;
                 }
 
                 else{
